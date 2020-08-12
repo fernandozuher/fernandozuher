@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="400" height="400" src="images/carreta_furacao.webp">
+<img align="right" width="400" height="400" src="fernandozuher/images/carreta_furacao.webp">
  
 # Hello, world!
  

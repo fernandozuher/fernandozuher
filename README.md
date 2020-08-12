@@ -23,8 +23,8 @@ Writing...
  
  
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandozuher)](link_do_seu_perfil_no_github)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:fernando.zuher@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandozuher)](https://github.com/fernandozuher)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.zuher@gmail.com)](mailto:fernando.zuher@gmail.com)
  
 Thanks for visiting.
 Enjoy it!! o/

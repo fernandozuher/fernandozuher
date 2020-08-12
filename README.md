@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="400" height="400" src="./images/carreta_furacao.webp">
+<img align="right" width="400" height="400" src="fernandozuher/fernandozuher/blob/master/images/carreta_furacao.webp">
  
 # Hello, world!
  
 ## Writing...
+ 
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandozuher)](https://github.com/fernandozuher)

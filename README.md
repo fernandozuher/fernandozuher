@@ -23,14 +23,9 @@ I am a researcher on Robotics who also enjoy languages and systematic reviews.
 
 🔭 Currently, **Neuro🧠robotics🤖** is the topic that demands most of me: I am trying to understand how a humanoid robot works when it is controlled by a computer model based on a cortex-basal ganglia-thalamus spiking neuron network 🧙 (what kind of witchcraft is this?). In a playful way:
 
-A computer model based on a spiking neuron network of the Cortex, Basal Ganglia and Thalamus:
-<p align="center"><img src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg"></p>
+A computer model based on a spiking neuron network of the Cortex, Basal Ganglia and Thalamus PLUS robot NAO:
 <!--Brain image, 16 August 2020: http://what-when-how.com/neuroscience/the-basal-ganglia-motor-systems-part-1/-->
-
-<p align="center">+</p>
-
-robot NAO
-<img align = "right" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp"></p>
+<p><img height = "300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg"> + <img height = "300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp"></p>
 
 I am investigating how such a robot works under both healthy and Parkisonian states of the neural network. That repository is private for potential Nobel prizes. I'm sorry =/
 

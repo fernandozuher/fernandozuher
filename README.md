@@ -31,13 +31,13 @@ NAO closed head: https://www.youtube.com/watch?v=VzznYm_fzmk
 NAO opened head: https://staff.fnwi.uva.nl/a.visser/research/nao/Labbook2017.html
 
 -->
-<p align="center"><img height="350px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg">
-===>>>>
+<p align="center"><img height="300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg">
+=>
 <img height="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao_closed_head.jpg">
 =>
 <img height="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao_opened_head.jpg">
-===>>>>
-<img height="350px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp">
+=>
+<img height="300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp">
 </p>
 
 I am investigating how such a robot works under both healthy and Parkisonian states of the neural network. That repository is private for potential Nobel prizes. I'm sorry =/

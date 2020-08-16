@@ -48,9 +48,9 @@ I am investigating how such a robot works under both healthy and Parkinsonian st
 Besides, I have some parallel cool projects. They follow:
 
 ### ⚽ Soccer humanoid robot framework
-A humanoid robot soccer framework has been drafted in a too slow pace, I admit, but it lacks interest and financial support from the government in my home country. A teaser can be taken in the repo:
+A humanoid robot soccer framework has been drafted in a too slow pace, I admit, but it lacks interest and financial support from the government in my home country. A teaser can be taken in it
 
-[<img height="150px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/humanoid_soccer)
+[<img height="100px" align="right" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/humanoid_soccer)
 
 ### Computer🖥 and Human🗣 Languages
 I am an enthusiast of computer/human languages!

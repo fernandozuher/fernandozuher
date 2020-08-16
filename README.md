@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 <!--<img align="right" width="400" height="400" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/carreta_furacao.webp">-->
 
-<img align="right" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
+# <img align="left" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
 
-# Hello, world!
- 
 I am a researcher on Robotics who also enjoy languages and systematic reviews.
 
 🔭 Currently the topic that demands most of me is **Neuro🧠robotics🤖**: I am trying to understand how a cortex-basal ganglia-thalamus based computer model works under Parkisonian effects in a humanoid robot called NAO. But its repository is private for potential Nobel prizes. I'm sorry =/

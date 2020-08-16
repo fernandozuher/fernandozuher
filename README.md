@@ -56,8 +56,8 @@ I am an enthusiast of computer/human languages!
 
 I have studied 5 programming and 2 markup languages in this Corona Age: C, C++, Java, Python, JavaScript, HTML and CSS, respectively.
 
-[<img align="right" width="50px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
-You can check my homework in the Codility repository out. Also my summaries and realized exercises about reference-books in the [Algorithms-and-Programming](https://github.com/fernandozuher/Algorithms-and-Programming) repo.
+[<img align="left" width="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
+You can check my homework in the [Codility repository](https://github.com/fernandozuher/Codility) out. Also my summaries and realized exercises about reference-books in the [Algorithms-and-Programming](https://github.com/fernandozuher/Algorithms-and-Programming) repo.
 
 As for the human languages, I speak Portuguese, English, Spanish. I can scrape together some Italian and French to get by. As for Arabic and Persian, I just pretend 😬
 

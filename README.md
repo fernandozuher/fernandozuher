@@ -48,7 +48,7 @@ I am investigating how such a robot works under both healthy and Parkinsonian st
 Besides, I have some parallel cool projects. They follow:
 
 ### ⚽ Soccer humanoid robot framework
-[<img height="50px" align="left" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/humanoid_soccer) A humanoid robot soccer framework has been drafted in a too slow pace, I admit, but it lacks interest and financial support from the government in my home country. You can watch a teaser its repo.
+[<img height="50px" align="left" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/humanoid_soccer) A humanoid robot soccer framework has been drafted in a too slow pace, I admit, but it lacks interest and financial support from the government in my home country. You can watch a teaser in its repo, anyway.
 
 
 ### Computer🖥 and Human🗣 Languages
@@ -56,12 +56,12 @@ I am an enthusiast of computer/human languages!
 
 I have studied 5 programming and 2 markup languages in this Corona Age: C, C++, Java, Python, JavaScript, HTML and CSS, respectively.
 
-[<img align="right" width="90px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
+[<img align="right" width="50px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
 You can check my homework in the Codility repository out. Also my summaries and realized exercises about reference-books in the [Algorithms-and-Programming](https://github.com/fernandozuher/Algorithms-and-Programming) repo.
 
 As for the human languages, I speak Portuguese, English, Spanish. I can scrape together some Italian and French to get by. As for Arabic and Persian, I just pretend 😬
 
-All of those languages have been in my mind to be compared in a beautiful way. You can find an initial draft repo about "comparator of languages" in (comparator_language)[https://github.com/fernandozuher/comparator_language].
+All of those languages have been in my mind to be compared in a beautiful way. You can find an initial draft repo about "comparator of languages" in [comparator_language](https://github.com/fernandozuher/comparator_language).
 
 ### Robotic Tactile Sensing database
 Last, but not least, I enjoy the information revealed in academic literature when it is brought by the process of systematic review. My Google Scholar/Scopus/Web of Knowledge site on Robotic Tactile Sensing has been cooked in a bain-marie here [RTS](https://github.com/fernandozuher/RTS).

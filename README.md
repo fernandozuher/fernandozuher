@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--<img align="left" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">-->
 
-<img src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello_programming.gif">
+<p align="center"><img src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello_programming.gif"></p>
 
 I am a researcher on Robotics who also enjoy languages and systematic reviews.
 
@@ -37,7 +37,7 @@ A soccer humanoid robot framework has been drafted in a too slow pace, I admit, 
 ## Computer🖥 and Human🗣 Languages
 I am an enthusiastic for computer/human languages!
 
-<img align="left" width="100" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
+<img align="left" width="90" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
 I have studied 5 programming and 2 markup languages in this Corona Age: C, C++, Java, Python, JavaScript, HTML and CSS, respectively.
 
 You can checkout my homework in the Codility repository. Also my summaries and done exercises of reference-books in Algorithms-and-Programming repo.

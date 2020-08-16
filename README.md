@@ -50,7 +50,7 @@ Besides, I have some parallel cool projects. They follow:
 ### ⚽ Soccer humanoid robot framework
 A humanoid robot soccer framework has been drafted in a too slow pace, I admit, but it lacks interest and financial support from the government in my home country. A teaser can be taken in the repo:
 
-<p align="center">[<img height="150px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/humanoid_soccer)</p>
+[<img height="150px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/humanoid_soccer)
 
 ### Computer🖥 and Human🗣 Languages
 I am an enthusiast of computer/human languages!

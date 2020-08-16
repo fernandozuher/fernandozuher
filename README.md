@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!--<img align="right" width="400" height="400" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/carreta_furacao.webp">-->
 
-<img align="right" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello2.gif">
+<img align="right" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
 
 # Hello, world!
  

@@ -24,8 +24,21 @@ I am a researcher on Robotics who also enjoy languages and systematic reviews.
 🔭 Currently, **Neuro🧠robotics🤖** is the topic that demands most of me: I am trying to understand how a humanoid robot works when it is controlled by a computer model based on a cortex-basal ganglia-thalamus spiking neuron network 🧙 (what kind of witchcraft is this?). In a playful way:
 
 A computer model based on a spiking neuron network of the Cortex, Basal Ganglia and Thalamus PLUS robot NAO:
-<!--Brain image, 16 August 2020: http://what-when-how.com/neuroscience/the-basal-ganglia-motor-systems-part-1/-->
-<p><img height = "300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg"> + <img height = "300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp"></p>
+<!--
+16 August 2020
+Brain image: http://what-when-how.com/neuroscience/the-basal-ganglia-motor-systems-part-1/
+NAO closed head: https://www.youtube.com/watch?v=VzznYm_fzmk
+NAO opened head: https://staff.fnwi.uva.nl/a.visser/research/nao/Labbook2017.html
+
+-->
+<p align="center"><img height="350px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg">
+===>>>>
+<img height="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao_closed_head.jpg">
+=>
+<img height="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao_opened_head.jpg">
+===>>>>
+<img height="350px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp">
+</p>
 
 I am investigating how such a robot works under both healthy and Parkisonian states of the neural network. That repository is private for potential Nobel prizes. I'm sorry =/
 
@@ -43,7 +56,7 @@ A soccer humanoid robot framework has been drafted in a too slow pace, I admit, 
 ## Computer🖥 and Human🗣 Languages
 I am an enthusiastic for computer/human languages!
 
-<img align="left" width="900px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
+<img align="left" width="90px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
 I have studied 5 programming and 2 markup languages in this Corona Age: C, C++, Java, Python, JavaScript, HTML and CSS, respectively.
 
 You can checkout my homework in the Codility repository. Also my summaries and done exercises of reference-books in Algorithms-and-Programming repo.

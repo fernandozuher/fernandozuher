@@ -61,9 +61,9 @@ You can check my homework in the [Codility repository](https://github.com/fernan
 
 As for the human languages, I speak Portuguese, English, Spanish. I can scrape together some Italian and French to get by. As for Arabic and Persian, I just pretend 😬
 
-All of those languages have been in my mind to be compared in a beautiful way. You can find an initial draft repo about "comparator of languages" in [comparator_language](https://github.com/fernandozuher/comparator_language).
+All of those languages have been in my mind to be compared in a beautiful way. You can find an initial draft in the [comparator_language](https://github.com/fernandozuher/comparator_language) repo.
 
-### Robotic Tactile Sensing database
+### Robotic Tactile Sensing academic electronic database
 Last, but not least, I enjoy the information revealed in academic literature when it is brought by the process of systematic review. My Google Scholar/Scopus/Web of Knowledge site on Robotic Tactile Sensing has been cooked in a bain-marie here [RTS](https://github.com/fernandozuher/RTS).
 
 ---

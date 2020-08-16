@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<img align="right" width="400" height="400" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/carreta_furacao.webp">-->
-
-<!--<img align="left" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">-->
-
 <p align="center"><img src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello_programming.gif"></p>
 
 I am a researcher on Robotics who also enjoy languages and systematic reviews.
@@ -45,14 +41,16 @@ I am investigating how such a robot works under both healthy and Parkinsonian st
 
 **But I can give you a beta subproduct of it**. I have refactored a plugin called "naoqi_webots" (originally "naoqisim"):
 
-[<img height="50px" align="left" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/naoqi_webots.png">](https://github.com/fernandozuher/naoqi_webots) It allows you to use the [NAOqi SDK SoftBank Robotics](https://developer.softbankrobotics.com/nao6/downloads/nao6-downloads-linux) into the simulated NAO robot of the [Cyberbotics Webots](https://www.cyberbotics.com/). How does it work? It connects the NAO robot simulated in Webots to the NAOqi process. Just that!
+[<img height="50px" align="left" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/naoqi_webots.png">](https://github.com/fernandozuher/naoqi_webots) It allows you to use the [NAOqi SDK SoftBank Robotics](https://developer.softbankrobotics.com/nao6/downloads/nao6-downloads-linux) into the simulated NAO robot of the [Cyberbotics Webots](https://www.cyberbotics.com/). How does it work? It connects the NAO robot simulated in Webots to the NAOqi process. That's all!
 
 *I have discussed this issue with Webots, RobotLAB and SoftBank Robotics in order to replace the outdated SDK used in it. Let's see... 🤔*
 
-## ⚽ Soccer humanoid robot framework
+Besides, I have some parallel cool projects. They follow:
+
+### ⚽ Soccer humanoid robot framework
 A soccer humanoid robot framework has been drafted in a too slow pace, I admit, but it lacks financial support from the government in my home country yet. A teaser can be taken in *** where there are a summary about the last competitors in SPL (Standard Plataform League) with some useful documentation about the best teams. It is summarized for you. Take for free with no guarantee (but mention this repository when taking advantage of that ;-)
 
-## Computer🖥 and Human🗣 Languages
+### Computer🖥 and Human🗣 Languages
 I am an enthusiastic for computer/human languages!
 
 <img align="left" width="90px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
@@ -64,8 +62,7 @@ As for the human languages, I speak Portuguese, English, Spanish. I can scrape t
 
 All of those languages have been in my mind to be compared in a beautiful way. You can find an alpha repo about "comparator of languages" in AAA. 
 
-
-## Robotic Tactile Sensing database
+### Robotic Tactile Sensing database
 Last, but not least, I enjoy the information revealed in academic literature when it is brought by the process of systematic review. My Google Scholar/Scopus/Web of Knowledge site on Robotic Tactile Sensing has been cooked in a bain-marie in this repository: RTS.
 
 ---

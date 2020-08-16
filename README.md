@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 <!--<img align="right" width="400" height="400" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/carreta_furacao.webp">-->
 
-# <img align="left" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">
+<!--<img align="left" width="200" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">-->
+
+<img align="left" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello_programming.gif">
 
 I am a researcher on Robotics who also enjoy languages and systematic reviews.
 

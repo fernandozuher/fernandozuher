@@ -23,24 +23,25 @@ I am a researcher on Robotics who also enjoy languages and systematic reviews.
 
 🔭 Currently, **Neuro🧠robotics🤖** is the topic that demands most of me: I am trying to understand how a humanoid robot works when it is controlled by a computer model based on a cortex-basal ganglia-thalamus spiking neuron network 🧙 (what kind of witchcraft is this?). In a playful way:
 
-A computer model based on a spiking neuron network of the Cortex, Basal Ganglia and Thalamus PLUS robot NAO:
 <!--
 16 August 2020
 Brain image: http://what-when-how.com/neuroscience/the-basal-ganglia-motor-systems-part-1/
 NAO closed head: https://www.youtube.com/watch?v=VzznYm_fzmk
 NAO opened head: https://staff.fnwi.uva.nl/a.visser/research/nao/Labbook2017.html
-
 -->
-<p align="center"><img height="300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg">
+
+<p align="center"><img height="330px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/brain.jpg">
 =>
 <img height="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao_closed_head.jpg">
 =>
 <img height="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao_opened_head.jpg">
 =>
-<img height="300px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp">
+<img height="330px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/nao.webp">
 </p>
 
-I am investigating how such a robot works under both healthy and Parkisonian states of the neural network. That repository is private for potential Nobel prizes. I'm sorry =/
+<p align="center">(images' references inside page's source code ;-)</p>
+
+I am investigating how such a robot works under both healthy and Parkinsonian states of the neural network. That repository is private for potential Nobel prizes. I'm sorry =/
 
 **But I can give you a beta subproduct of it**: I have refactored a plugin called "naoqi_webots" (originally "naoqisim").
 

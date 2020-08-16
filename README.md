@@ -43,11 +43,10 @@ NAO opened head: https://staff.fnwi.uva.nl/a.visser/research/nao/Labbook2017.htm
 
 I am investigating how such a robot works under both healthy and Parkinsonian states of the neural network. That repository is private for potential Nobel prizes. I'm sorry =/
 
-**But I can give you a beta subproduct of it**: I have refactored a plugin called "naoqi_webots" (originally "naoqisim").
+**But I can give you a beta subproduct of it**. I have refactored a plugin called "naoqi_webots" (originally "naoqisim"):
+[<img height="100px" align="right" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/naoqi_webots.png">](https://github.com/fernandozuher/naoqi_webots)
 
-It allows you to use the NAOqi SDK SoftBank Robotics into the simulated NAO robot of the Cyberbotics Webots.
-    
-How does it work? It connects the NAO robot simulated in Webots to the NAOqi process. Just that! 
+It allows you to use the NAOqi SDK SoftBank Robotics into the simulated NAO robot of the Cyberbotics Webots. How does it work? It connects the NAO robot simulated in Webots to the NAOqi process. Just that! 
     
 *I have discussed this issue with Webots, RobotLAB and SoftBank Robotics in order to replace the outdated SDK used in it. Let's see... 🤔*
 

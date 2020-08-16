@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!--<img align="right" width="400" height="400" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/carreta_furacao.webp">-->
- 
-# Hello, world!
 
 <img align="right" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello2.gif">
- 
+
 # Hello, world!
  
 I am a researcher on Robotics who also enjoy languages and systematic reviews.

@@ -48,7 +48,7 @@ I am investigating how such a robot works under both healthy and Parkinsonian st
 Besides, I have some parallel cool projects. They follow:
 
 ### ⚽ Soccer humanoid robot framework
-[<img height="50px" align="left" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/humanoid_soccer) A humanoid robot soccer framework has been drafted in a too slow pace, I admit, but it lacks interest and financial support from the government in my home country. You can watch a teaser in its [repo](https://github.com/fernandozuher/humanoid_soccer), anyway.
+[<img height="50px" align="left" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/soccer.png">](https://github.com/fernandozuher/soccer_robot) A humanoid robot soccer framework has been drafted in a too slow pace, I admit, but it lacks interest and financial support from the government in my home country. You can watch a teaser in its [repo](https://github.com/fernandozuher/soccer_robot), anyway.
 
 
 ### Computer🖥 and Human🗣 Languages
@@ -59,7 +59,7 @@ I have studied 5 programming and 2 markup languages in this Corona Age: C, C++, 
 [<img align="left" width="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
 You can check my homework in the [Codility repository](https://github.com/fernandozuher/Codility) out. Also my summaries and realized exercises about reference-books in the [Algorithms-and-Programming](https://github.com/fernandozuher/Algorithms-and-Programming) repo.
 
-As for the human languages, I speak Portuguese, English, Spanish. I can scrape together some Italian and French to get by. And I can just pretend something in Arabic (Kifak?) and Persian (Salam, khubi?) 😬
+As for the human languages, I speak Portuguese, English, Spanish. I can scrape together some Italian and French to get by. And I can just pretend a basic conversation in Arabic (Kifak?) and Persian (Salam, khubi?) 😬
 
 All of those languages have been in my mind to be compared in a beautiful way. You can find an initial draft in the [comparator_language](https://github.com/fernandozuher/comparator_language) repo.
 

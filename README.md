@@ -64,7 +64,7 @@ As for the human languages, I speak Portuguese, English, Spanish. I can scrape t
 All of those languages have been in my mind to be compared in a beautiful way. You can find an initial draft in the [language_comparator](https://github.com/fernandozuher/language_comparator) repo.
 
 ### Robotic Tactile Sensing academic electronic database
-Last, but not least, I enjoy the information revealed in academic literature when it is brought by the process of systematic review. My Google Scholar/Scopus/Web of Knowledge site on Robotic Tactile Sensing has been cooked in a bain-marie here [RTS](https://github.com/fernandozuher/RTS).
+Last, but not least, I enjoy the information revealed in academic literature when it is brought by the process of systematic review. My Google Scholar/Scopus/Web of Knowledge site on Robotic Tactile Sensing has been cooked in a bain-marie here [RTS](https://github.com/fernandozuher/RTS) (writing...).
 
 ---
 Thanks for reading my page! 📫 If I can help you with something related to my work, please, 💬 with me in fernando.zuher@gmail.com o/

@@ -83,7 +83,6 @@ Last, but not least, I enjoy the information revealed in academic literature whe
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandozuher&repo=naoqi_webots&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/fernandozuher/Codility">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandozuher&repo=Codility&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   

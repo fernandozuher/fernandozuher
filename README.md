@@ -76,7 +76,7 @@ Last, but not least, I enjoy the information revealed in academic literature whe
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandozuher&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/fernandozuher/fernandozuher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandozuher&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fernando's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandozuher&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fernando's GitHub Stats" />
 </a>
 
 <a href="https://github.com/fernandozuher/naoqi_webots">

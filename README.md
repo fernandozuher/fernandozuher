@@ -45,7 +45,7 @@ I am investigating how such a robot works under both healthy and Parkinsonian st
 
 *I have discussed this issue with Webots, RobotLAB and SoftBank Robotics in order to replace the outdated SDK used in it. Let's see... 🤔*
 
-Besides, I have some parallel cool projects. They follow:
+Besides, I have some parallel cool projects. They follow...
 
 ---
 ### ⚽ Soccer humanoid robot framework
@@ -67,6 +67,26 @@ All of those languages have been in my mind to be compared in a beautiful way. Y
 ---
 ### Robotic Tactile Sensing academic electronic database
 Last, but not least, I enjoy the information revealed in academic literature when it is brought by the process of systematic review. My Google Scholar/Scopus/Web of Knowledge site on Robotic Tactile Sensing has been cooked in a bain-marie here [RTS](https://github.com/fernandozuher/RTS) (writing...).
+
+---
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/fernandozuher/fernandozuher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandozuher&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/fernandozuher/fernandozuher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandozuher&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fernando's GitHub Stats" />
+</a>
+
+<a href="https://github.com/fernandozuher/naoqi_webots">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandozuher&repo=naoqi_webots&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/fernandozuher/Codility">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandozuher&repo=Codility&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
 
 ---
 Thanks for reading my page! 📫 If I can help you with something related to my work, please, 💬 with me in fernando.zuher@gmail.com o/

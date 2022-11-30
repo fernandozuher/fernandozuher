@@ -30,15 +30,14 @@ In my free time, I learn/solve programming problems through 10 different program
 I solve one programming puzzle a day in 10 different ways (10 languages).
 Yeah, it is not easy to remember their functioning if I don't practice a bit regularly. ;-)
 
-As for the human languages, I speak fluently: Portuguese and English. More or less (less) Spanish. I understand Italian much more than I speak. And I can pretend some Lebanese arabic if I have the opportunity, ya zalame.
-
-
 [<img align="left" width="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
 You can check my solutions to the HackerRank and Codility problems in [HackerRank repo](https://github.com/fernandozuher/Codility) and [Codility repo](https://github.com/fernandozuher/Codility).
 
 All of those languages have been in my mind to be compared in a beautiful way.
 I am writing a website about that.
 An initial version will be online before the next Carnival of 2023. ;-)
+
+As for the human languages, I speak fluently: Portuguese and English. More or less (less) Spanish. I understand Italian much more than I speak. And I can pretend some Lebanese arabic if I have the opportunity, ya zalame.
 
 ---
 

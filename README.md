@@ -27,7 +27,8 @@ In my free time, I learn/solve programming problems through 10 different program
 
 ...in HackerRank and Codility websites.
 
-I solve one programming puzzle (10 times = 10 languages) each day, 6-7 days a week. Yeah, it is not easy to remember their functioning if I don't practice regularly and a bit everyday :-)
+I solve one programming puzzle a day in 10 different ways (10 languages).
+Yeah, it is not easy to remember their functioning if I don't practice a bit regularly. ;-)
 
 As for the human languages, I speak fluently: Portuguese and English. More or less (less) Spanish. I understand Italian much more than I speak. And I can pretend some Lebanese arabic if I have the opportunity, ya zalame.
 

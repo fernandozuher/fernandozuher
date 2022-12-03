@@ -20,18 +20,18 @@ I am a software analyst at Netcracker Technologies working mainly with C++/Go la
 ### Computer🖥 and Human🗣 Languages
 I am an enthusiast of computer/human languages!
 
-In my free time, I learn/solve programming problems through 10 different programming languages:
+In my spare time, I learn/solve programming problems through 10 different programming languages:
   - C, C++, Go and Rust;
   - C#, Java;
   - Javascript, Typescript (a superset ok...), Python and Ruby.
 
-...in HackerRank and Codility websites.
+...in HackerRank and Advent of Code (AoC) websites.
 
 I solve one programming puzzle a day in 10 different ways (10 languages).
 Yeah, it is not easy to remember their functioning if I don't practice a bit regularly. ;-)
 
 [<img align="left" width="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
-You can check my solutions to the HackerRank and Codility problems in [HackerRank repo](https://github.com/fernandozuher/Codility) and [Codility repo](https://github.com/fernandozuher/Codility).
+You can check my solutions to their problems in the [Programming problems repo](https://github.com/fernandozuher/programming-problems).
 
 All of those languages have been in my mind to be compared in a beautiful way.
 I am writing a website about that.
@@ -53,8 +53,8 @@ As for the human languages, I speak fluently: Portuguese and English. More or le
 <a href="https://github.com/fernandozuher/naoqi_webots">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandozuher&repo=naoqi%5Fwebots&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/fernandozuher/Codility">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandozuher&repo=codility&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/fernandozuher/programming-problems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandozuher&repo=programming-problems&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
 ---

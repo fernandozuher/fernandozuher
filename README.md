@@ -21,8 +21,8 @@ I am a software analyst at Netcracker Technologies working mainly with C++/Go la
 I am an enthusiast of computer/human languages!
 
 In my spare time, I learn/solve programming problems through 10 different programming languages:
-  - C, C++, Go and Rust;
-  - C#, Java;
+  - C, Go and Rust;
+  - C++, C# and Java;
   - Javascript, Typescript (a superset ok...), Python and Ruby.
 
 ...in HackerRank and Advent of Code (AoC) websites.

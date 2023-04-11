@@ -27,8 +27,8 @@ In my spare time, I learn/solve programming problems through 10 different progra
 
 ...in HackerRank and Advent of Code (AoC) websites.
 
-I solve one programming puzzle a day in 10 different ways (10 languages).
-Yeah, it is not easy to remember their functioning if I don't practice a bit regularly. ;-)
+I try to solve one programming puzzle a day in 10 different ways (10 languages).
+Yeah, it is not easy to remember their functioning if I don't practice regularly. ;-)
 
 [<img align="left" width="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
 You can check my solutions to their problems in the [Programming problems repo](https://github.com/fernandozuher/programming-problems).

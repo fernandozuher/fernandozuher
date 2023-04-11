@@ -35,7 +35,6 @@ You can check my solutions to their problems in the [Programming problems repo](
 
 All of those languages have been in my mind to be compared in a beautiful way.
 I am writing a website about that.
-An initial version will be online before the next Carnival of 2023. ;-)
 
 As for the human languages, I speak fluently: Portuguese and English. More or less (less) Spanish. I understand Italian much more than I speak. And I can pretend some Lebanese arabic if I have the opportunity, ya zalame.
 

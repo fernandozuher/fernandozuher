@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello_programming.gif"></p>
 
-I am a software analyst at Netcracker Technologies working mainly with C++/Go languages and Oracle/PostgreSQL databases.
+I am a software analyst at Netcracker Technologies working mainly with C/C++/Java languages and Oracle/PostgreSQL databases.
 
 ### Computer🖥 and Human🗣 Languages
 I am an enthusiast of computer/human languages!

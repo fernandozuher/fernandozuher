@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github.com/fernandozuher/fernandozuher/blob/master/images/hello_programming.gif"></p>
 
-I am a software analyst at Netcracker Technologies working mainly with C/C++/Java languages and Oracle/PostgreSQL databases.
+I am a software analyst at Netcracker Technologies working mainly with Go/Java langs, Angular and PostgreSQL/Oracle databases.
 
 ### Computer🖥 and Human🗣 Languages
 I am an enthusiast of computer/human languages!
 
-In my spare time, I learn/solve programming problems through 10 different programming languages:
+In my spare time, I learn/solve programming problems through 9 different programming languages:
   - C, Go and Rust;
-  - C++, C# and Java;
-  - Javascript, Typescript (a superset ok...), Python and Ruby.
+  - C++, Java and C#;
+  - Javascript/Typescript, Python and Ruby.
 
-...in HackerRank and Advent of Code (AoC) websites.
+...in HackerRank and the like programming problems.
 
-I try to solve one programming puzzle a day in 10 different ways (10 languages).
-Yeah, it is not easy to remember their functioning if I don't practice regularly. ;-)
+It is not easy to remember their functioning if I don't practice regularly, so I do that. ;-)
 
 [<img align="left" width="100px" src="https://github.com/fernandozuher/fernandozuher/blob/master/images/programming.gif">](https://github.com/fernandozuher/Codility)
 You can check my solutions to their problems in the [Programming problems repo](https://github.com/fernandozuher/programming-problems).
@@ -36,7 +35,7 @@ You can check my solutions to their problems in the [Programming problems repo](
 All of those languages have been in my mind to be compared in a beautiful way.
 I am writing a website about that.
 
-As for the human languages, I speak fluently: Portuguese and English. More or less (less) Spanish. I understand Italian much more than I speak. And I can pretend some Lebanese arabic if I have the opportunity, ya zalame.
+As for the human languages, I speak fluently: Portuguese and English. More or less (less) Spanish. I understand Italian much more than I speak.
 
 ---
 

@@ -25,7 +25,7 @@ In my spare time, I learn/solve programming problems through 9 different program
   - C++, Java and C#;
   - Javascript/Typescript, Python and Ruby.
 
-...in HackerRank and the like programming problems.
+...in HackerRank and similar programming problems' sites.
 
 It is not easy to remember their functioning if I don't practice regularly, so I do that. ;-)
 
